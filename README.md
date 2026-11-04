@@ -6,3 +6,4 @@
 [![Website](https://img.shields.io/badge/aaravj.xyz-6A0DAD?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aaravj.xyz)  
 
 
+<img src="koi/koi.gif" width="256" alt="My koi"> 
